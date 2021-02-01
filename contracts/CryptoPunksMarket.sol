@@ -6,7 +6,7 @@ contract CryptoPunksMarket {
 
     address owner;
 
-    string public standard = 'CryptoPunks';
+    string public standard = 'CryptoPunksv2';
     string public name;
     string public symbol;
     uint8 public decimals;
